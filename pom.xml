@@ -11,7 +11,7 @@
     <groupId>com.dm</groupId>
     <artifactId>login</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>AccountSystem</name>
+    <name>DmRepository</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
